@@ -192,4 +192,6 @@ $$	ext{Precision} = rac{TP}{TP + FP}, \quad 	ext{Recall} = rac{TP}{TP + FN}, \
 - [x] Comparative discussion & model performance trade-off report.
 - [x] Code execution and hyperparameter tuning logs.
 
+[yassin mahmoud] - Sole developer responsible for complete end-to-end implementation, including EDA, preprocessing, model development, hyperparameter optimization, and evaluation analysis.
+
 
