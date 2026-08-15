@@ -192,12 +192,4 @@ $$	ext{Precision} = rac{TP}{TP + FP}, \quad 	ext{Recall} = rac{TP}{TP + FN}, \
 - [x] Comparative discussion & model performance trade-off report.
 - [x] Code execution and hyperparameter tuning logs.
 
----
 
-## 👥 Team Members
-
-* **[Member 1 Name]** - *Data Preprocessing & EDA*
-* **[Member 2 Name]** - *KNN & Naive Bayes Implementation*
-* **[Member 3 Name]** - *SVM & GridSearch Tuning*
-* **[Member 4 Name]** - *Decision Tree & Visualization*
-* **[Member 5 Name]** - *Comparative Analysis & Documentation*
